@@ -1,1 +1,1 @@
-# ACM-ICPC-Team-algo
+# ACM-ICPC-Team-algo This function iterates through all possible pairs of people, counting the total number of topics each pair knows using a bitwise-like check on the topic strings. It keeps track of the maximum topics a team can know and how many teams achieve that maximum, returning both values.
